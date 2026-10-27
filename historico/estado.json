@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-10-26",
+  "atualizado_em": "2026-10-27",
   "conta": "1121095817536023",
   "campanha_id": "120247111995320449",
   "conjunto_id": "120247111995300449",
@@ -14,9 +14,10 @@
       "formato": "reel",
       "gancho": null,
       "estilo": null,
-      "status": "ACTIVE",
+      "status": "PAUSED",
       "gasto": 57.59,
-      "conversas": 0
+      "conversas": 0,
+      "nota": "Movido para o conjunto Reels (limitado) em 27/10/2026"
     },
     {
       "ad_id": "120247111995310449",
@@ -25,9 +26,10 @@
       "formato": "reel",
       "gancho": null,
       "estilo": null,
-      "status": "ACTIVE",
+      "status": "PAUSED",
       "gasto": 52.74,
-      "conversas": 1
+      "conversas": 1,
+      "nota": "Movido para o conjunto Reels (limitado) em 27/10/2026"
     },
     {
       "ad_id": "120247112492050449",
@@ -80,9 +82,82 @@
       "formato": "imagem",
       "gancho": "pagando-mais",
       "estilo": "autoridade",
-      "status": "PAUSED",
+      "status": "ARCHIVED",
       "gasto": 0,
       "conversas": 0
+    },
+    {
+      "ad_id": "120247219202410449",
+      "nome": "SM · 2026-10-26-E1 · autoridade · pergunta",
+      "origem": "skill",
+      "formato": "imagem",
+      "lote": "2026-10-26",
+      "estilo": "autoridade",
+      "gancho": "pergunta",
+      "conjunto_id": "120247111995300449",
+      "status": "ACTIVE",
+      "gasto": 0,
+      "conversas": 0,
+      "criado_em": "2026-10-27",
+      "stories": "so_feed"
+    },
+    {
+      "ad_id": "120247219202920449",
+      "nome": "SM · 2026-10-26-E2 · selos · caro-demais",
+      "origem": "skill",
+      "formato": "imagem",
+      "lote": "2026-10-26",
+      "estilo": "selos",
+      "gancho": "caro-demais",
+      "conjunto_id": "120247111995300449",
+      "status": "ACTIVE",
+      "gasto": 0,
+      "conversas": 0,
+      "criado_em": "2026-10-27",
+      "stories": "so_feed"
+    },
+    {
+      "ad_id": "120247219203390449",
+      "nome": "SM · 2026-10-26-E3 · boleto · boleto",
+      "origem": "skill",
+      "formato": "imagem",
+      "lote": "2026-10-26",
+      "estilo": "boleto",
+      "gancho": "boleto",
+      "conjunto_id": "120247111995300449",
+      "status": "ACTIVE",
+      "gasto": 0,
+      "conversas": 0,
+      "criado_em": "2026-10-27",
+      "stories": "so_feed"
+    },
+    {
+      "ad_id": "120247219213320449",
+      "nome": "59+ | Reel Mateus | C5 Expulsa Pelo Preço (limitado)",
+      "origem": "legado",
+      "formato": "reel",
+      "gancho": null,
+      "estilo": null,
+      "conjunto_id": "120247219210340449",
+      "status": "ACTIVE",
+      "gasto": 0,
+      "conversas": 0,
+      "criado_em": "2026-10-27",
+      "copia_de": "120247127241200449"
+    },
+    {
+      "ad_id": "120247219214920449",
+      "nome": "59+ | Reel Mateus | Fez 59 anos (limitado)",
+      "origem": "legado",
+      "formato": "reel",
+      "gancho": null,
+      "estilo": null,
+      "conjunto_id": "120247219210340449",
+      "status": "ACTIVE",
+      "gasto": 0,
+      "conversas": 0,
+      "criado_em": "2026-10-27",
+      "copia_de": "120247111995310449"
     }
   ],
   "frases_usadas": [
@@ -95,5 +170,10 @@
     "A mensalidade do plano subiu de novo?"
   ],
   "semanas_dentro_da_meta": 0,
-  "primeira_execucao_feita": false
+  "primeira_execucao_feita": true,
+  "orcamento_diario": 35.0,
+  "teto_mensal": 1500.0,
+  "conjunto_reels_id": "120247219210340449",
+  "conjunto_reels_teto_diario": 6.0,
+  "stories_suportado": null
 }
