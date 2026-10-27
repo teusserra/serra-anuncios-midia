@@ -1,0 +1,26 @@
+{
+  "versao": 1,
+  "atualizado_em": "2026-10-26",
+  "conta": "1121095817536023",
+  "campanha_id": "120247111995320449",
+  "conjunto_id": "120247111995300449",
+  "pagina_id": "1283404174866960",
+  "nota": "Anúncios 'legado' foram criados à mão antes da automação; não têm lote nem gancho da skill. Números até 26/10/2026.",
+  "anuncios": [
+    {"ad_id": "120247127241200449", "nome": "59+ | Reel Mateus | C5 Expulsa Pelo Preço", "origem": "legado", "formato": "reel", "gancho": null, "estilo": null, "status": "ACTIVE", "gasto": 57.59, "conversas": 0},
+    {"ad_id": "120247111995310449", "nome": "59+ | Reel Mateus | Fez 59 anos", "origem": "legado", "formato": "reel", "gancho": null, "estilo": null, "status": "ACTIVE", "gasto": 52.74, "conversas": 1},
+    {"ad_id": "120247112492050449", "nome": "Teste — 59+ | Carrossel | 5 dúvidas", "origem": "legado", "formato": "carrossel", "gancho": "pergunta", "estilo": null, "status": "ACTIVE", "gasto": 10.74, "conversas": 2},
+    {"ad_id": "120247112492060449", "nome": "Teste — 59+ | Carrossel | Falar com Advogado", "origem": "legado", "formato": "carrossel", "gancho": null, "estilo": null, "status": "ACTIVE", "gasto": 10.84, "conversas": 0},
+    {"ad_id": "120247112492040449", "nome": "Teste — 59+ | Carrossel | Subir sem Limite", "origem": "legado", "formato": "carrossel", "gancho": null, "estilo": null, "status": "ACTIVE", "gasto": 10.89, "conversas": 0},
+    {"ad_id": "120247112331940449", "nome": "59+ | Carrossel | Comece por aqui", "origem": "legado", "formato": "carrossel", "gancho": null, "estilo": null, "status": "ACTIVE", "gasto": 14.79, "conversas": 1},
+    {"ad_id": "120247211363580449", "nome": "TESTE MCP — apagar", "origem": "teste", "formato": "imagem", "gancho": "pagando-mais", "estilo": "autoridade", "status": "PAUSED", "gasto": 0, "conversas": 0}
+  ],
+  "frases_usadas": [
+    "Seu plano de saúde ficou caro demais?",
+    "Quer saber se dá pra pagar menos no plano de saúde?",
+    "Seu boleto do plano veio mais caro de novo?",
+    "Você pode estar pagando mais do que devia no plano de saúde."
+  ],
+  "semanas_dentro_da_meta": 0,
+  "primeira_execucao_feita": false
+}
