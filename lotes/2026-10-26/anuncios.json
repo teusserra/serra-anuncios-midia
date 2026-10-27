@@ -1,0 +1,43 @@
+{
+  "versao": 2,
+  "data": "2026-10-26",
+  "commit_imagens": "a638a0e2cad033c78d35fdbb43cae856af6668c9",
+  "anuncios": [
+    {
+      "id": "2026-10-26-E1",
+      "estilo": "autoridade",
+      "gancho": "pergunta",
+      "titulo": "Seu plano subiu e você não sabe se é legal?",
+      "texto_principal": "Seu plano de saúde subiu e você não sabe se o aumento é legal? Converse com a gente pelo WhatsApp.",
+      "titulo_link": "Fale com a gente no WhatsApp",
+      "arquivo_feed": "E1-autoridade-feed.jpg",
+      "arquivo_stories": "E1-autoridade-stories.jpg",
+      "url_feed": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/a638a0e2cad033c78d35fdbb43cae856af6668c9/lotes/2026-10-26/E1-autoridade-feed.jpg",
+      "url_stories": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/a638a0e2cad033c78d35fdbb43cae856af6668c9/lotes/2026-10-26/E1-autoridade-stories.jpg"
+    },
+    {
+      "id": "2026-10-26-E2",
+      "estilo": "selos",
+      "gancho": "caro-demais",
+      "titulo": "Seu plano pesou no bolso este ano?",
+      "texto_principal": "Se o plano de saúde pesou no bolso, vale entender se o reajuste foi correto. Fale com a gente pelo WhatsApp.",
+      "titulo_link": "Fale com a gente no WhatsApp",
+      "arquivo_feed": "E2-selos-feed.jpg",
+      "arquivo_stories": "E2-selos-stories.jpg",
+      "url_feed": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/a638a0e2cad033c78d35fdbb43cae856af6668c9/lotes/2026-10-26/E2-selos-feed.jpg",
+      "url_stories": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/a638a0e2cad033c78d35fdbb43cae856af6668c9/lotes/2026-10-26/E2-selos-stories.jpg"
+    },
+    {
+      "id": "2026-10-26-E3",
+      "estilo": "boleto",
+      "gancho": "boleto",
+      "titulo": "A mensalidade do plano subiu de novo?",
+      "texto_principal": "A mensalidade do plano subiu de novo? Veja se o aumento respeitou o limite. Converse com a gente pelo WhatsApp.",
+      "titulo_link": "Fale com a gente no WhatsApp",
+      "arquivo_feed": "E3-boleto-feed.jpg",
+      "arquivo_stories": "E3-boleto-stories.jpg",
+      "url_feed": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/a638a0e2cad033c78d35fdbb43cae856af6668c9/lotes/2026-10-26/E3-boleto-feed.jpg",
+      "url_stories": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/a638a0e2cad033c78d35fdbb43cae856af6668c9/lotes/2026-10-26/E3-boleto-stories.jpg"
+    }
+  ]
+}
