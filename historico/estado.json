@@ -1,6 +1,6 @@
 {
   "versao": 1,
-  "atualizado_em": "2026-10-27",
+  "atualizado_em": "2026-11-09",
   "conta": "1121095817536023",
   "campanha_id": "120247111995320449",
   "conjunto_id": "120247111995300449",
@@ -38,9 +38,10 @@
       "formato": "carrossel",
       "gancho": "pergunta",
       "estilo": null,
-      "status": "ACTIVE",
+      "status": "PAUSED",
       "gasto": 10.74,
-      "conversas": 2
+      "conversas": 2,
+      "nota": "Pausado em 09/11/2026 a pedido do Mateus (carrossel; limite de 6 ativos)"
     },
     {
       "ad_id": "120247112492060449",
@@ -49,9 +50,10 @@
       "formato": "carrossel",
       "gancho": null,
       "estilo": null,
-      "status": "ACTIVE",
+      "status": "PAUSED",
       "gasto": 10.84,
-      "conversas": 0
+      "conversas": 0,
+      "nota": "Pausado em 09/11/2026 a pedido do Mateus (carrossel; limite de 6 ativos)"
     },
     {
       "ad_id": "120247112492040449",
@@ -60,9 +62,10 @@
       "formato": "carrossel",
       "gancho": null,
       "estilo": null,
-      "status": "ACTIVE",
+      "status": "PAUSED",
       "gasto": 10.89,
-      "conversas": 0
+      "conversas": 0,
+      "nota": "Pausado em 09/11/2026 a pedido do Mateus (carrossel; limite de 6 ativos)"
     },
     {
       "ad_id": "120247112331940449",
@@ -71,9 +74,10 @@
       "formato": "carrossel",
       "gancho": null,
       "estilo": null,
-      "status": "ACTIVE",
+      "status": "PAUSED",
       "gasto": 14.79,
-      "conversas": 1
+      "conversas": 1,
+      "nota": "Pausado em 09/11/2026 a pedido do Mateus (carrossel; limite de 6 ativos)"
     },
     {
       "ad_id": "120247211363580449",
@@ -158,6 +162,54 @@
       "conversas": 0,
       "criado_em": "2026-10-27",
       "copia_de": "120247111995310449"
+    },
+    {
+      "ad_id": "120247457968890449",
+      "nome": "SM · 2026-11-09-E1 · autoridade · pergunta · filtro",
+      "origem": "skill",
+      "formato": "imagem",
+      "lote": "2026-11-09",
+      "estilo": "autoridade",
+      "gancho": "pergunta",
+      "conjunto_id": "120247111995300449",
+      "status": "ACTIVE",
+      "gasto": 0,
+      "conversas": 0,
+      "criado_em": "2026-11-09",
+      "stories": "so_feed",
+      "saudacao_whatsapp": true
+    },
+    {
+      "ad_id": "120247457975530449",
+      "nome": "SM · 2026-11-09-E2 · selos · pagando-mais · filtro",
+      "origem": "skill",
+      "formato": "imagem",
+      "lote": "2026-11-09",
+      "estilo": "selos",
+      "gancho": "pagando-mais",
+      "conjunto_id": "120247111995300449",
+      "status": "ACTIVE",
+      "gasto": 0,
+      "conversas": 0,
+      "criado_em": "2026-11-09",
+      "stories": "so_feed",
+      "saudacao_whatsapp": true
+    },
+    {
+      "ad_id": "120247457977250449",
+      "nome": "SM · 2026-11-09-E3 · boleto · boleto · filtro",
+      "origem": "skill",
+      "formato": "imagem",
+      "lote": "2026-11-09",
+      "estilo": "boleto",
+      "gancho": "boleto",
+      "conjunto_id": "120247111995300449",
+      "status": "ACTIVE",
+      "gasto": 0,
+      "conversas": 0,
+      "criado_em": "2026-11-09",
+      "stories": "so_feed",
+      "saudacao_whatsapp": true
     }
   ],
   "frases_usadas": [
@@ -167,7 +219,10 @@
     "Você pode estar pagando mais do que devia no plano de saúde.",
     "Seu plano subiu e você não sabe se é legal?",
     "Seu plano pesou no bolso este ano?",
-    "A mensalidade do plano subiu de novo?"
+    "A mensalidade do plano subiu de novo?",
+    "O plano dos seus pais subiu aos 59?",
+    "O valor do seu plano disparou?",
+    "Compare o boleto de antes com o de hoje"
   ],
   "semanas_dentro_da_meta": 0,
   "primeira_execucao_feita": true,
@@ -175,5 +230,21 @@
   "teto_mensal": 1500.0,
   "conjunto_reels_id": "120247219210340449",
   "conjunto_reels_teto_diario": 6.0,
-  "stories_suportado": null
+  "stories_suportado": null,
+  "publico": {
+    "idade": "30-64",
+    "publico_automatico_meta": false,
+    "desde": "2026-11-09",
+    "motivo": "65+ trazia quase metade das conversas sem qualidade (toque acidental / sem condição de conversar)"
+  },
+  "saudacao_whatsapp": {
+    "ativa": true,
+    "texto": "Olá! Aqui é da Serra Montenegro Advocacia. Para a gente entender o seu caso, toque na opção que combina com você:",
+    "perguntas": [
+      "Meu plano subiu e quero entender o aumento",
+      "O plano dos meus pais subiu e eu cuido disso",
+      "Tenho o boleto e quero enviar para análise",
+      "Cliquei sem querer"
+    ]
+  }
 }
