@@ -172,6 +172,57 @@
       "estilo": "autoridade",
       "gancho": "pergunta",
       "conjunto_id": "120247111995300449",
+      "status": "PAUSED",
+      "gasto": 0,
+      "conversas": 0,
+      "criado_em": "2026-11-09",
+      "stories": "so_feed",
+      "saudacao_whatsapp": true,
+      "nota": "Substituído na mesma manhã pela v2 (manchete sem 'plano de saúde' por extenso)"
+    },
+    {
+      "ad_id": "120247457975530449",
+      "nome": "SM · 2026-11-09-E2 · selos · pagando-mais · filtro",
+      "origem": "skill",
+      "formato": "imagem",
+      "lote": "2026-11-09",
+      "estilo": "selos",
+      "gancho": "pagando-mais",
+      "conjunto_id": "120247111995300449",
+      "status": "PAUSED",
+      "gasto": 0,
+      "conversas": 0,
+      "criado_em": "2026-11-09",
+      "stories": "so_feed",
+      "saudacao_whatsapp": true,
+      "nota": "Substituído na mesma manhã pela v2 (manchete sem 'plano de saúde' por extenso)"
+    },
+    {
+      "ad_id": "120247457977250449",
+      "nome": "SM · 2026-11-09-E3 · boleto · boleto · filtro",
+      "origem": "skill",
+      "formato": "imagem",
+      "lote": "2026-11-09",
+      "estilo": "boleto",
+      "gancho": "boleto",
+      "conjunto_id": "120247111995300449",
+      "status": "PAUSED",
+      "gasto": 0,
+      "conversas": 0,
+      "criado_em": "2026-11-09",
+      "stories": "so_feed",
+      "saudacao_whatsapp": true,
+      "nota": "Substituído na mesma manhã pela v2 (manchete sem 'plano de saúde' por extenso)"
+    },
+    {
+      "ad_id": "120247458343420449",
+      "nome": "SM · 2026-11-09-E1 · autoridade · pergunta · filtro v2",
+      "origem": "skill",
+      "formato": "imagem",
+      "lote": "2026-11-09",
+      "estilo": "autoridade",
+      "gancho": "pergunta",
+      "conjunto_id": "120247111995300449",
       "status": "ACTIVE",
       "gasto": 0,
       "conversas": 0,
@@ -180,8 +231,8 @@
       "saudacao_whatsapp": true
     },
     {
-      "ad_id": "120247457975530449",
-      "nome": "SM · 2026-11-09-E2 · selos · pagando-mais · filtro",
+      "ad_id": "120247458343840449",
+      "nome": "SM · 2026-11-09-E2 · selos · pagando-mais · filtro v2",
       "origem": "skill",
       "formato": "imagem",
       "lote": "2026-11-09",
@@ -196,8 +247,8 @@
       "saudacao_whatsapp": true
     },
     {
-      "ad_id": "120247457977250449",
-      "nome": "SM · 2026-11-09-E3 · boleto · boleto · filtro",
+      "ad_id": "120247458344780449",
+      "nome": "SM · 2026-11-09-E3 · boleto · boleto · filtro v2",
       "origem": "skill",
       "formato": "imagem",
       "lote": "2026-11-09",
@@ -222,7 +273,10 @@
     "A mensalidade do plano subiu de novo?",
     "O plano dos seus pais subiu aos 59?",
     "O valor do seu plano disparou?",
-    "Compare o boleto de antes com o de hoje"
+    "Compare o boleto de antes com o de hoje",
+    "O plano de saúde dos seus pais subiu aos 59?",
+    "Seu plano de saúde disparou de valor?",
+    "O boleto do plano de saúde assustou?"
   ],
   "semanas_dentro_da_meta": 0,
   "primeira_execucao_feita": true,
@@ -246,5 +300,8 @@
       "Tenho o boleto e quero enviar para análise",
       "Cliquei sem querer"
     ]
-  }
+  },
+  "regras_texto": [
+    "A manchete sempre diz 'plano de saúde' por extenso (nunca só 'plano'), para ficar claro do que se trata (Mateus, 09/11/2026)."
+  ]
 }

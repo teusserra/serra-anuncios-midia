@@ -1,43 +1,44 @@
 {
   "versao": 2,
   "data": "2026-11-09",
-  "commit_imagens": "db3e0f69e7cb2cc04b3b1c0ee64b6a91523a5078",
+  "commit_imagens": "7dc80f02be0e9af362d5eea0f2363e268c7fc96c",
+  "nota": "v2 de 09/11: manchetes com 'plano de saúde' por extenso (pedido do Mateus); a v1 foi pausada",
   "anuncios": [
     {
       "id": "2026-11-09-E1",
       "estilo": "autoridade",
       "gancho": "pergunta",
-      "titulo": "O plano dos seus pais subiu aos 59?",
+      "titulo": "O plano de saúde dos seus pais subiu aos 59?",
       "texto_principal": "Você paga o plano de saúde dos seus pais e ele subiu muito? Tenha o boleto em mãos e fale com a gente no WhatsApp.",
       "titulo_link": "Fale com a gente no WhatsApp",
       "arquivo_feed": "E1-autoridade-feed.jpg",
       "arquivo_stories": "E1-autoridade-stories.jpg",
-      "url_feed": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/db3e0f69e7cb2cc04b3b1c0ee64b6a91523a5078/lotes/2026-11-09/E1-autoridade-feed.jpg",
-      "url_stories": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/db3e0f69e7cb2cc04b3b1c0ee64b6a91523a5078/lotes/2026-11-09/E1-autoridade-stories.jpg"
+      "url_feed": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/7dc80f02be0e9af362d5eea0f2363e268c7fc96c/lotes/2026-11-09/E1-autoridade-feed.jpg",
+      "url_stories": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/7dc80f02be0e9af362d5eea0f2363e268c7fc96c/lotes/2026-11-09/E1-autoridade-stories.jpg"
     },
     {
       "id": "2026-11-09-E2",
       "estilo": "selos",
       "gancho": "pagando-mais",
-      "titulo": "O valor do seu plano disparou?",
+      "titulo": "Seu plano de saúde disparou de valor?",
       "texto_principal": "Paga plano de saúde e teve um aumento alto? Separe o boleto e a carta de reajuste e fale com a gente no WhatsApp.",
       "titulo_link": "Fale com a gente no WhatsApp",
       "arquivo_feed": "E2-selos-feed.jpg",
       "arquivo_stories": "E2-selos-stories.jpg",
-      "url_feed": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/db3e0f69e7cb2cc04b3b1c0ee64b6a91523a5078/lotes/2026-11-09/E2-selos-feed.jpg",
-      "url_stories": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/db3e0f69e7cb2cc04b3b1c0ee64b6a91523a5078/lotes/2026-11-09/E2-selos-stories.jpg"
+      "url_feed": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/7dc80f02be0e9af362d5eea0f2363e268c7fc96c/lotes/2026-11-09/E2-selos-feed.jpg",
+      "url_stories": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/7dc80f02be0e9af362d5eea0f2363e268c7fc96c/lotes/2026-11-09/E2-selos-stories.jpg"
     },
     {
       "id": "2026-11-09-E3",
       "estilo": "boleto",
       "gancho": "boleto",
-      "titulo": "Compare o boleto de antes com o de hoje",
-      "texto_principal": "Separe o boleto antigo e o atual do plano de saúde. Se a diferença assustou, envie os dois pelo WhatsApp.",
+      "titulo": "O boleto do plano de saúde assustou?",
+      "texto_principal": "O boleto do plano de saúde veio bem mais caro? Separe o antigo e o atual e envie os dois pelo WhatsApp.",
       "titulo_link": "Fale com a gente no WhatsApp",
       "arquivo_feed": "E3-boleto-feed.jpg",
       "arquivo_stories": "E3-boleto-stories.jpg",
-      "url_feed": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/db3e0f69e7cb2cc04b3b1c0ee64b6a91523a5078/lotes/2026-11-09/E3-boleto-feed.jpg",
-      "url_stories": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/db3e0f69e7cb2cc04b3b1c0ee64b6a91523a5078/lotes/2026-11-09/E3-boleto-stories.jpg"
+      "url_feed": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/7dc80f02be0e9af362d5eea0f2363e268c7fc96c/lotes/2026-11-09/E3-boleto-feed.jpg",
+      "url_stories": "https://raw.githubusercontent.com/teusserra/serra-anuncios-midia/7dc80f02be0e9af362d5eea0f2363e268c7fc96c/lotes/2026-11-09/E3-boleto-stories.jpg"
     }
   ]
 }
